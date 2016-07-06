@@ -1,8 +1,6 @@
 .idea/
 .DS_Store
 
-dist/
-
 # Node template
 # Logs
 logs
